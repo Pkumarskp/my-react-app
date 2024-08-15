@@ -4,9 +4,14 @@ import { PencilSquare, Trash } from 'react-bootstrap-icons';
 import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 const List = () => {
+    const navigate = useNavigate();
+    let loginUserStatus = JSON.parse(localStorage.getItem('login')) || [];
+    console.log(loginUserStatus);
+    if (loginUserStatus.length === 0) {
+        navigate("/register");
+    }
     const [userdata, setUserData] = React.useState([]);
     const [selecteduserdata, setSelectedUserData] = React.useState(null);
-    const navigate = useNavigate();
     React.useEffect(() => {
         const storedData = localStorage.getItem('user');
         if (storedData) {
