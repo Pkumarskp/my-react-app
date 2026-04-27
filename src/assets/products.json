@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Aura Sound Pro - Graphite",
+    "price": 299.99,
+    "description": "Premium noise-canceling headphones with 40-hour battery life and spatial audio support. Crafted with recycled aluminum and vegan leather.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.8, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Minimalist Slate Watch",
+    "price": 185.00,
+    "description": "Swiss-made quartz movement encased in a brushed stainless steel case. Sapphire crystal glass and Italian leather strap.",
+    "category": "lifestyle",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.9, "count": 85 }
+  },
+  {
+    "id": 3,
+    "title": "Nordic Ceramic Set",
+    "price": 75.00,
+    "description": "Hand-thrown ceramic dinner set. Includes 4 plates and 4 bowls. Microwave and dishwasher safe with a matte basalt finish.",
+    "category": "home",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.7, "count": 64 }
+  },
+  {
+    "id": 4,
+    "title": "Aura Lens - 35mm f/1.4",
+    "price": 899.00,
+    "description": "Professional grade prime lens for mirrorless cameras. Exceptional sharpness and beautiful bokeh for portrait photography.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 5.0, "count": 42 }
+  },
+  {
+    "id": 5,
+    "title": "Eco-Leather Weekend Bag",
+    "price": 240.00,
+    "description": "Spacious duffle bag made from high-quality pineapple leather. Features a dedicated shoe compartment and padded laptop sleeve.",
+    "category": "fashion",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.6, "count": 92 }
+  },
+  {
+    "id": 6,
+    "title": "Stellar Smart Lamp",
+    "price": 120.00,
+    "description": "App-controlled ambient light with 16 million colors. Schedule sunrise simulations and sync with your music.",
+    "category": "electronics",
+    "image": "https://images.unsplash.com/photo-1534073828943-f801091bb270?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.8, "count": 156 }
+  },
+  {
+    "id": 7,
+    "title": "Knit Mesh Sneakers",
+    "price": 145.00,
+    "description": "Breathable running shoes with responsive cushioning. Made from recycled plastic ocean waste.",
+    "category": "fashion",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.5, "count": 210 }
+  },
+  {
+    "id": 8,
+    "title": "Titanium Fountain Pen",
+    "price": 65.00,
+    "description": "Precision machined titanium body with a gold-plated nib. Ergonomic grip for effortless long-form writing.",
+    "category": "lifestyle",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&q=80&w=600",
+    "rating": { "rate": 4.9, "count": 38 }
+  }
+]
